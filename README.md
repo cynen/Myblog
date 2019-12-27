@@ -44,7 +44,10 @@ bootstrap 来构建交互界面.
 
 [SpringBoot技术栈搭建个人博客【项目准备】](https://www.jianshu.com/p/0293368fe750)
 
-
 [SpringBoot技术栈搭建个人博客【后台开发】](https://www.jianshu.com/p/91c6c9fc67c4)
 
 [SpringBoot技术栈搭建个人博客【前台开发/项目总结】](https://www.jianshu.com/p/c66541e59249)
+
+
+# 其他参考:
+[另外一套](https://github.com/zhyocean/MyBlog)
